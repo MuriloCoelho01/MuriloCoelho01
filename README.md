@@ -36,11 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-### 🐍 **Animação de Commits**
-
-<div align="center">
-  <img src="https://github.com/MuriloCoelho01/MuriloCoelho01/blob/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 
