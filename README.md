@@ -8,7 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MuriloCoelho01/MuriloCoelho01/output/snake.svg" alt="Snake animation" />
 
 ###
 
